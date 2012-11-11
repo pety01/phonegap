@@ -1,4 +1,4 @@
-phonegap
+Phonegap
 ========
 
 Testing Phonegap
